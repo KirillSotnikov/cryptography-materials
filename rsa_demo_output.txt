@@ -1,0 +1,16 @@
+MSIT 5270 - RSA Digital Signature Demonstration
+================================================
+Library: cryptography 50.0.2
+Signature scheme: RSA-PSS
+RSA key size: 3072 bits
+Hash algorithm: SHA-256
+
+Original SHA-256: dd22cbca5018cc4cdaa3ebba7b6618d8e0fe75325fcbc4c1f038aafc0f8d4428
+Modified SHA-256: c386f2f761d097e68546f17ce42bb20419a2cbc9c980de3dfca1704a91d1709c
+
+[PASS] Original transcript + correct public key: signature verified
+[PASS] Modified transcript + original signature: verification correctly failed
+[PASS] Original transcript + unrelated public key: verification correctly failed
+
+Private key saved to disk: NO (lab key remained in memory)
+Synthetic data only: YES

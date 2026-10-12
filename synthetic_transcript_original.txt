@@ -1,0 +1,8 @@
+UNIVERSITY INFORMATION SYSTEM - SYNTHETIC TRANSCRIPT
+Student ID: DEMO-S10001
+Student Name: Sample Student
+Course: MSIT 5270 Foundations of Cybersecurity
+Term: AY2027-T1
+Final Grade: B+
+Record Status: Final
+Note: Synthetic test data only. No real student information is included.

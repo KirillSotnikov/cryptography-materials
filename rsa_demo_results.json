@@ -1,0 +1,14 @@
+{
+  "library": "cryptography 50.0.2",
+  "signature_scheme": "RSA-PSS",
+  "rsa_key_size_bits": 3072,
+  "hash_algorithm": "SHA-256",
+  "original_sha256": "dd22cbca5018cc4cdaa3ebba7b6618d8e0fe75325fcbc4c1f038aafc0f8d4428",
+  "modified_sha256": "c386f2f761d097e68546f17ce42bb20419a2cbc9c980de3dfca1704a91d1709c",
+  "tests": {
+    "original_file_correct_public_key": true,
+    "modified_file_original_signature": false,
+    "original_file_unrelated_public_key": false
+  },
+  "private_key_saved_to_disk": false
+}
